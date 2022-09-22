@@ -2,7 +2,7 @@
   <img src="https://c.tenor.com/vW__kIdOl0EAAAAC/android-google-android.gif">
 </p> 
 
-### Hi There, I am WonSeok :blush <br>
+### Hi There, I am WonSeok ::blush <br>
 ---
 - 🔭 I am a Junior Android developer as Junior
 - 🌱 I’m currently learning someting new skills
