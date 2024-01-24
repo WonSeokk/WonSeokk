@@ -4,7 +4,6 @@
 
 ### Hi There, I am WonSeok :blush: <br>
 ---
-- 🔭 I am a Junior as Android developer
 - 🌱 I’m currently learning someting new skills
 
 <div align="center"> <br>
